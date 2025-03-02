@@ -2,7 +2,7 @@
   <img src="./assets/youtube-music.gif">
 </a>
 
-## Youtube Music Carousel Transition
+## Youtube Music Carousel Transition Example
 
 This is a simple example of how to implement a smooth carousel transition for a Youtube Music like experience, using react-native-skia and react-native-reanimated.
 
